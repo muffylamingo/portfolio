@@ -2,7 +2,7 @@
 
 "INITIALIZING_DOMAIN..."
 
-A full-stack personal portfolio website with an anime-inspired dark aesthetic, built to showcase projects, skills, and provide a live contact channel. The design draws visual inspiration from Jujutsu Kaisen and carries a terminal/hacker tone throughout its UI.
+A full-stack personal portfolio website with an anime-inspired dark aesthetic, built to showcase projects, skills, and provide a live contact channel. 
 
 📋 Project Overview
 This portfolio is a single-page web application that presents:
